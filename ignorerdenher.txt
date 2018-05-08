@@ -1,0 +1,1 @@
+Denne fil skal ikke være i GIT
